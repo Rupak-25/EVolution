@@ -1,0 +1,69 @@
+.ev{
+    color: rgb(10, 242, 10);
+    font-size: 50px;
+    font-weight: 900;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.nav{
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 120px;
+    margin-top: 50px;
+    align-items: center;
+    height: 100px;
+    width: 100%;
+}
+.nav-logo{
+    display: flex;
+    justify-content: center;
+    font-weight: 900;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(222, 227, 222);
+}
+.nav-menu{
+    margin-top: 30px;
+    font-size: 25px;
+    font-weight: 900;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(222, 227, 222);
+}
+.nav-menu li{
+    display: inline-block;
+    padding: 0 30px;
+}
+.Home:hover{
+    color: rgb(10, 242, 10);
+    cursor: pointer;
+    transition: 0.1s;
+    transform: scale(1.1);
+}
+.Explore:hover{
+    color: rgb(10, 242, 10);
+    cursor: pointer;
+    transition: 0.1s;
+    transform: scale(1.1);
+}
+.About:hover{
+    color: rgb(10, 242, 10);
+    cursor: pointer;
+    transition: 0.1s;
+    transform: scale(1.1);
+}
+.nav-contact{
+    margin-left: 40px;
+    background-color: rgb(222, 227, 222);
+    padding: 10px 40px;
+    height: 30px;
+    width: 158px;
+    border-radius: 50px;
+    color: rgb(13, 12, 12);
+}
+.nav-contact:hover{
+    background-color: rgb(10, 242, 10);
+    color: #fff;
+    cursor: pointer;
+    transition: 0.1s;
+    transform: scale(1.1);
+}
