@@ -1,6 +1,6 @@
 <h1 align="center">🔋 EVolution</h1>
 
-<video src="https://github.com/user-attachments/assets/c0ff1976-0791-4ac2-ab12-7e54c2228d0c"></video>
+<video src="https://github.com/user-attachments/assets/2d618014-1abc-4f80-8282-8396610b219e"></video>
 
 Welcome to EVolution! This project is a modern and dynamic web application built using React with Vite configuration and styled with CSS3. The EVolution project showcases the future of electric vehicles with a sleek and responsive design.
 
